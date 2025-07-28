@@ -1,8 +1,7 @@
 /* ESTILOS MAIN */
 .introduçao-bg {
   box-shadow: inset 0 -120px white;
-  background-color: black;
-  color: white;
+  background-color: var(--cor-12);
 }
 
 .introduçao {
@@ -26,20 +25,11 @@
 }
 
 .introduçao h1 {
-  font-family: "Poppins";
-  font-weight: 600;
   margin-bottom: 32px;
-  font-size: 4rem;
-  line-height: 1.125;
 }
 
 .introduçao p {
-  font-family: "Roboto";
-  font-weight: 400;
   margin-bottom: 20px;
-  font-size: 1.2rem;
-  line-height: 150%;
-  color: #b2b2b2;
 }
 
 .introduçao-conteudo h1 span {
