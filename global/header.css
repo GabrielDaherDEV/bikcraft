@@ -1,15 +1,12 @@
 .header-bg {
   background-color: var(--cor-12);
+  padding: 10px;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-sizing: border-box;
-  padding: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
   flex-wrap: wrap;
   gap: 20px;
 }
