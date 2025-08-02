@@ -14,7 +14,8 @@ h1,
 h2,
 h3,
 ul,
-p {
+p,
+dd {
   margin: 0px;
 }
 
