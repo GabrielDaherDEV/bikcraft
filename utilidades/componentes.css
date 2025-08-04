@@ -18,6 +18,8 @@
   font-size: 18px;
   line-height: 1.33;
   max-width: max-content;
+  border: none;
+  cursor: pointer;
 }
 
 .botao:hover {
