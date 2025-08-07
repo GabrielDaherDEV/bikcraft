@@ -50,6 +50,11 @@
   background: url("../img/icones/email.svg") no-repeat 0px 2px;
 }
 
+.form button:hover {
+  transition: 0.2s;
+  transform: scale(1.1);
+}
+
 .contato-meios a:nth-child(2) {
   margin-bottom: 32px;
 }

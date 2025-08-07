@@ -35,7 +35,8 @@
   margin-top: 4px;
 }
 
-.header-menu a:hover::after {
+.header-menu a:hover::after,
+.header-menu a.ativo::after {
   position: absolute;
   width: 100%;
   transition: 0.3s;
